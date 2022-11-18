@@ -1,13 +1,13 @@
 
 
 .cover {
-  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(asset_path('colors.jpg'));
+  background-image: url(asset_path('colors.jpg'));
   height: 500px;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 .typed-js {
