@@ -1,15 +1,16 @@
 .btn-flat {
   color: white;
   padding: 8px 24px;
-  border-radius: 4px;
-  background: #ffa600;
+  border-radius: 2px;
+  background: #fd78f9;
   transition: background 0.3s ease;
+  border: 3px solid black;
 }
 
 .btn-cancel {
   color: white;
   padding: 8px 24px;
-  border-radius: 4px;
+  border-radius: 2px;
   background: #6a757e;
   transition: background 0.3s ease;
 }
